@@ -11,5 +11,14 @@ Suporte a vídeos comuns, anúncios e lives
 
 Playlist dinâmica com múltiplos vídeos
 
-Player que controla a reprodução
+Player que controla a reprodução:
+Tecnologias Utilizadas
+
+TypeScript
+
+Node.js
+
+ts-node
+
+POO (Classes, Herança, Polimorfismo, Encapsulamento)
 
