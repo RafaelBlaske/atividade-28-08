@@ -2,28 +2,9 @@
 Video Player com TypeScript e POO
 Este projeto é um player de vídeo simples desenvolvido em TypeScript, utilizando os princípios da Programação Orientada a Objetos (POO). Ele simula a reprodução de vídeos, anúncios e transmissões ao vivo, organizados em uma playlist.
 
-Funcionalidades:
-Reproduzir, pausar e parar vídeos
+Funcionalidades: Reproduzir, pausar e parar vídeos. Exibir informações detalhadas de cada vídeo. Suporte a vídeos comuns, anúncios e lives. Playlist dinâmica com múltiplos vídeos. Player que controla a reprodução
 
-Exibir informações detalhadas de cada vídeo
+Tecnologias Utilizadas: TypeScript, Node.js, ts-node, POO (Classes, Herança, Polimorfismo, Encapsulamento)
 
-Suporte a vídeos comuns, anúncios e lives
-
-Playlist dinâmica com múltiplos vídeos
-
-Player que controla a reprodução:
-
-Tecnologias Utilizadas:
-TypeScript
-
-Node.js
-
-ts-node
-
-POO (Classes, Herança, Polimorfismo, Encapsulamento)
-
-Instalação:
-Clone o repositório: git clone https://github.com/seu-usuario/video-player-ts.git
-cd video-player-ts
-Instale as dependências: npm install
-Execute o projeto: npx ts-node src/main.ts
+Instalação: Clone o repositório: git clone https://github.com/seu-usuario/video-player-ts.git
+cd video-player-ts, instale as dependências: npm install, execute o projeto: npx ts-node src/main.ts
