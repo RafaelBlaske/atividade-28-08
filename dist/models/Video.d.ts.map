@@ -1,0 +1,1 @@
+{"version":3,"file":"Video.d.ts","sourceRoot":"","sources":["../../src/models/Video.ts"],"names":[],"mappings":"AAAA,qBAAa,KAAK;IAEd,OAAO,CAAC,KAAK;IACb,OAAO,CAAC,QAAQ;gBADR,KAAK,EAAE,MAAM,EACb,QAAQ,EAAE,MAAM;IAG1B,IAAI,IAAI,IAAI;IAIZ,KAAK,IAAI,IAAI;IAIb,IAAI,IAAI,IAAI;IAIZ,IAAI,IAAI,MAAM;CAGf"}

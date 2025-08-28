@@ -12,8 +12,8 @@ Suporte a vídeos comuns, anúncios e lives
 Playlist dinâmica com múltiplos vídeos
 
 Player que controla a reprodução:
-Tecnologias Utilizadas
 
+Tecnologias Utilizadas:
 TypeScript
 
 Node.js
@@ -22,3 +22,8 @@ ts-node
 
 POO (Classes, Herança, Polimorfismo, Encapsulamento)
 
+Instalação:
+Clone o repositório: git clone https://github.com/seu-usuario/video-player-ts.git
+cd video-player-ts
+Instale as dependências: npm install
+Execute o projeto: npx ts-node src/main.ts
